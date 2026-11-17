@@ -1,0 +1,16 @@
+{
+  "dil": "tr",
+  "musteri_firma": "Örnek Oto Parça A.Ş.",
+  "iletisim_kisi": "Elif Demir",
+  "kalkis": "Bursa",
+  "varis": "Frankfurt",
+  "istenen_tarih": null,
+  "mal_cinsi": "Otomotiv yedek parçası",
+  "parcalar": [
+    {"adet": 4, "uzunluk": 120, "genislik": 80, "yukseklik": 110, "olcu_birimi": "cm", "birim_agirlik": 180, "agirlik_birimi": "kg"}
+  ],
+  "toplam_brut_agirlik": null,
+  "toplam_agirlik_birimi": "kg",
+  "ozel_durumlar": [],
+  "notlar": "Kalkış Bursa yazılmış; çıkış havalimanı (ör. IST veya YEI) netleştirilmeli."
+}

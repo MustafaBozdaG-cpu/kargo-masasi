@@ -1,0 +1,16 @@
+{
+  "dil": "en",
+  "musteri_firma": "Sample Apparel Inc.",
+  "iletisim_kisi": "Mark Lee",
+  "kalkis": "IST",
+  "varis": "JFK",
+  "istenen_tarih": "2 December",
+  "mal_cinsi": "Textile samples",
+  "parcalar": [
+    {"adet": 12, "uzunluk": 60, "genislik": 40, "yukseklik": 40, "olcu_birimi": "cm", "birim_agirlik": null, "agirlik_birimi": "kg"}
+  ],
+  "toplam_brut_agirlik": 150,
+  "toplam_agirlik_birimi": "kg",
+  "ozel_durumlar": [],
+  "notlar": null
+}
